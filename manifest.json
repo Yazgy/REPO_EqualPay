@@ -1,0 +1,10 @@
+{
+    "name": "EqualPay",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Yazgy/REPO_EqualPay",
+    "description": "Displays the fair distribution of currency in the shop.",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }
+  
